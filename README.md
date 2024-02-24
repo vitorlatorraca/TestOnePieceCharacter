@@ -6,21 +6,18 @@ This is a small Java project that features a simple class to represent character
 
 1. Clone this repository:
 
-   ```bash
    git clone https://github.com/your-username/your-repository.git
+
 Navigate to the project directory:
 
-bash
 Copy code
 cd your-repository
 Compile the Java files:
 
-bash
 Copy code
 javac *.java
 Run the test file TestOnePieceCharacter:
 
-bash
 Copy code
 java TestOnePieceCharacter
 This will run the test file, which creates instances of OnePieceCharacter and prints the characters' information.
