@@ -25,8 +25,3 @@ This will run the test file, which creates instances of OnePieceCharacter and pr
 Project Structure
 OnePieceCharacter.java: Contains the definition of the OnePieceCharacter class.
 TestOnePieceCharacter.java: Contains a test program to demonstrate the usage of the OnePieceCharacter class.
-Contribution
-Contributions are welcome! If you have suggestions for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License.
